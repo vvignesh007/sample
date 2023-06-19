@@ -1,0 +1,2 @@
+# OpticalCharacterRecognitionApp
+Android mini projct
